@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 , p ,a{
+    text-align: center;
+    
+
+}
+
+.box1{
+    background-color:pink ;
+    width: 70%;
+    height: 200px;
+    border-radius: 10px;
+    margin: 0 auto;
+
+}
+h2{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(182, 171, 156);
+    
+}
+.a-div{
+    background-color:paleturquoise;
+    width: 20%;
+    height: 30px;
+    float: left;
+    margin:20px;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+.box2 .a-box{
+    background-color: paleturquoise;
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.clear{
+    clear: both;
+}
+
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+  
+}
+
+.box2{
+    background-color:pink ;
+    width: 70%;
+    height: 200px;
+    border-radius: 10px;
+    margin: 0 auto;
+    
+}
+
+.cont-box2{
+    float: right;
+}
+
+.pic-box{
+    float: right;
+    margin-right: 30px;
+}
+
+
+.box2 span{
+    color: blue;
+}
+.box3{
+    background-color: pink;
+     width: 70%;
+    height: 200px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.box3-skill{
+    width: 25%;
+    float: left;
+    border-radius: 20px;
+    border: 2px gray solid;
+    padding: 10bpx;
+    box-sizing: border-box;
+}
+h3{
+    padding: 10px;
+}
+.box3 .box3-skill .inner{
+    background-attachment: pink;
+
+}
